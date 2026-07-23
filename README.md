@@ -219,9 +219,9 @@ streamlit run app.py
 
 **Machine Learning & Data Analytics Enthusiast**
 
-- 📧 Email: *Your Email*
-- 💼 LinkedIn: *Your LinkedIn Profile*
-- 🌐 GitHub: *Your GitHub Profile*
+- 📧 Email: *miraqdasali1@gmail.com*
+- 💼 LinkedIn: [linkedin.com/in/Mir Aqdas Ali](linkedin.com/in/mir-aqdas-ali-190a5b1b0)
+- 🌐 GitHub: [github.com/Alley-Py](https://github.com/Alley-Py)
 
 ---
 # License
